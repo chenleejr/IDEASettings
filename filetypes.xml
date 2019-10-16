@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="./gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="$PRODUCT_WORKSPACE_FILE$" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
